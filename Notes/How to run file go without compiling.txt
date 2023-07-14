@@ -1,0 +1,4 @@
+1. open the terminal
+2. go to the path directory that u use to run the program in terminal
+3. just type go run name_file in terminal
+Ex : go run HelloWorld.go

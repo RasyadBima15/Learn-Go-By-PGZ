@@ -1,0 +1,7 @@
+1. go to the path directory that u use to run the program in cmd
+Ex : cd name_file.go
+2. type go build name_file in cmd
+Ex : go build HelloWorld.go
+3. after that, the file has been compiled in exe extention
+4. run the file by type name_file with exe extention in cmd
+Ex : HelloWorld.exe
